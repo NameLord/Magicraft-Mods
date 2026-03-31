@@ -1,4 +1,5 @@
 ## These mods are NOT compatible with IL2CPP
+- Unofficial Modding Discord Server: https://discord.gg/9bYknt7kwX
 
 ## `Mod Manager` - An easier way of managing the mods in-game, no MORE HARD WORK.. 
 - Dependency: https://thunderstore.io/c/magicraft/p/Fizzyman/Not_Official_BepInEx_ConfigurationManager/
