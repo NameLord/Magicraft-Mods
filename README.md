@@ -1,2 +1,1 @@
-# Magicraft-Mods
-a collection of mods for Magicraft Mono, NOT IL2CPP
+### These mods are NOT compatible with IL2CPP
