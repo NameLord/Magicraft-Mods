@@ -8,3 +8,5 @@
 
 ## `Prometheus Difficulty` - Nightmare-3 But 500% Harder, can you beat or die trying ? [ Requires Nightmare-3 Unlocked ]
 - Prometheus Difficulty might NOT be compatible with Experimentium, please disable Experimentium if you would like to try `Prometheus`
+
+## `Hot Loader` - Ability to run Non-compiled Mods into the game by creating just a `.cs` file format and placing in scripts folder requires C# Knowledge to make a script.
