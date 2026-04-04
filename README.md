@@ -10,3 +10,4 @@
 - Prometheus Difficulty might NOT be compatible with Experimentium, please disable Experimentium if you would like to try `Prometheus`
 
 ## `Post Level` - Leveling system where if you kill normal enemy you get 1x normal xp value, Elite enemy 5x & Boss 20x, Leveling up grants you Full Heal + 5% Permanent Max Health
+- Dependency: https://thunderstore.io/c/magicraft/p/NGeorge/ThuliumAPI/
